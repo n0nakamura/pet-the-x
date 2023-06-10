@@ -1,0 +1,12 @@
+= Pet the X
+
+Create a "Pet the X" using FFmpeg.
+
+. Download a GIF animation of a hand with a transparent background.
+. Rename the file to ``hand.gif``.
+. When the image to be petted is named "object.png", Just do ``./nptx.bash object.png``
+
+== TODO
+
+* Make the background transparent.
+* Add animation to the object.
